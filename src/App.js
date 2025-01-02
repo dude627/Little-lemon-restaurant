@@ -1,9 +1,11 @@
+import React from 'react';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <div>Hello world</div>
+ 
+    <div>
+      <h1>Meta Frontend Developer Capstone Starter Files</h1>
     </div>
   );
 }
